@@ -14,3 +14,8 @@ This repository contains the SRS and versioned change history for SmartAttendX.
 - Added dynamic QR spec (session_id, expiry, nonce, HMAC).
 - Defined single-use and time-limited QR behavior.
 - Specified fallback behavior for failed QR verification.
+
+### v3.0 - Geo-fencing & API (date: YYYY-MM-DD)
+- Added Admin API for geofence creation.
+- Defined client-server validation and reason codes.
+- Clarified use of UTC timestamps and accuracy checks.
