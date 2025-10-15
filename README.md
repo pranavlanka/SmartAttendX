@@ -19,3 +19,8 @@ This repository contains the SRS and versioned change history for SmartAttendX.
 - Added Admin API for geofence creation.
 - Defined client-server validation and reason codes.
 - Clarified use of UTC timestamps and accuracy checks.
+
+### v4.0 - ML Anomaly Detection & Security
+- Added ML model inputs, outputs, thresholds, retraining rules.
+- Added explainability & flag review process.
+- Strengthened security: AES-256, key rotation, audit logs, retention.
